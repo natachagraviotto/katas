@@ -3,9 +3,16 @@
 
 // 👇🏻 Define aquí tu función
 
+const sayHi = function() {
+    console.log('Hola Natacha');
+  };
+sayHi('Hola Natacha');
+
 // 👆🏻
 sayHi('Jon');
 // 👇🏻 Añade aqui otra invocación con tu nombre
+
+sayHi('Hola Natacha');
 
 // 👆🏻
 

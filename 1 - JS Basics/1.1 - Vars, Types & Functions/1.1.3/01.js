@@ -3,8 +3,11 @@
 const sayHi = function() {
   console.log('Hi!');
 };
+sayHi();
 
 // 👇🏻 Invoca la función aquí
+
+sayHi(); // Llamada a la función
 
 // 👆🏻
 
